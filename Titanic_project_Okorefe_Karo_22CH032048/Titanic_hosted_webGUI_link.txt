@@ -2,6 +2,7 @@ Name: Okorefe Karo
 Matric Number: 22CH032048
 Machine Learning Algorithm Used: Logistic Regression
 Model Persistence Method: Pickle
-Live URL: https://titanic-project-obisesan-anjolaoluwa.onrender.com
+Live URL: https://titanic-project-okorefe-karo-22ch032048.onrender.com
 GitHub Repository: https://github.com/karookorefe-stack/Titanic_project_Okorefe_Karo_22CH032048.git
+
 
