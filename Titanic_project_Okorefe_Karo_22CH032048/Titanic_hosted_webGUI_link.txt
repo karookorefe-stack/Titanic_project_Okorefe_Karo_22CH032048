@@ -1,6 +1,7 @@
-Name: Obisesan Anjolaoluwa
-Matric Number: 22CH032040
+Name: Okorefe Karo
+Matric Number: 22CH032048
 Machine Learning Algorithm Used: Logistic Regression
 Model Persistence Method: Pickle
 Live URL: https://titanic-project-obisesan-anjolaoluwa.onrender.com
-GitHub Repository: https://github.com/Anjola10/Titanic_Project_Obisesan_Anjolaoluwa_22CH032040.git
+GitHub Repository: https://github.com/karookorefe-stack/Titanic_project_Okorefe_Karo_22CH032048.git
+
